@@ -73,12 +73,6 @@ To deploy via **GitHub Pages**:
 3. Set source to `main` branch, root folder
 4. Your site will be live at `https://your-username.github.io/portfolio-website/portfolio.html`
 
-## 📬 Contact
-
-**Rifki Hanifudin**
-- 📧 Email: hanip@skywave.id
-- 📍 Location: Jombang, Jawa Timur, Indonesia
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
