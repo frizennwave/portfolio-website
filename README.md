@@ -71,7 +71,7 @@ To deploy via **GitHub Pages**:
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, root folder
-4. Your site will be live at `https://frizennwave.vercel.app`
+4. Your site will be live at `https://your-username.github.io/portfolio-website`
 
 ## 📄 License
 
