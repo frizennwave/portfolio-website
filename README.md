@@ -52,7 +52,7 @@ No installation needed. Just open `portfolio.html` in your browser:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/frizennwave/portfolio-website.git
 
 # Navigate into the folder
 cd portfolio-website
@@ -71,7 +71,7 @@ To deploy via **GitHub Pages**:
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, root folder
-4. Your site will be live at `https://your-username.github.io/portfolio-website/portfolio.html`
+4. Your site will be live at `https://frizennwave.vercel.app`
 
 ## 📄 License
 
